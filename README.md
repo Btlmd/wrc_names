@@ -4,6 +4,7 @@
 |Sampled @|String|
 |-|-|
 |2022-12-29|比奇堡礼貌小蜗|
+|2023-01-08|可爱小蜗|
 
 ## Weixin ID
 |Sampled @|String|
